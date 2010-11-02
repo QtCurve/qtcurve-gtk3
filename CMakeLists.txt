@@ -99,7 +99,7 @@ if (GTK_INCLUDE_DIR)
 
     configure_file(config.h.cmake ${CMAKE_BINARY_DIR}/config.h)
     add_subdirectory(style)
-    add_subdirectory(mozilla)
+    #add_subdirectory(mozilla)
     if(QTC_REORDER_GTK_DIALOG_BUTTONS)
         message("**************************************************************\n"
                 "Warning: You have enabled the option for QtCurve to try to manually\n"
