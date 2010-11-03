@@ -1,0 +1,50 @@
+General
+    - Need to replace GdkRegion usage, suggest create path to clip to
+      (This can be used for Gtk2 as well)
+    - Crashes X server when using inel driver? NVidia, and Xephyr, seem
+      to be ok.
+
+Scrollbars
+    - look sunken when selected
+    - loose mouse over when selected
+    - if slider is small, groove is not drawn correctly
+    - button orientation not correct - always horizontal
+
+Entry fields
+    - Background is drawn using highlight colour when active
+
+ListView headers
+    - Need way to detect first header. At the moment, just draw splitter
+      on right hand side.
+
+Combo Boxes
+    - Unified style not working
+    - Editable has double arrows
+    - Editable's list is not drawn 'view' (i.e. KDE) like
+
+Group Boxes
+    - Whewn bold font is used, its clipped on left
+
+Arrows
+    - Odd clipping/drawing on down arrow
+
+Spin Widgets
+    - Unified not clipped correctly?
+
+Popup-menus
+    - Rounding not working
+
+Tooltips
+    - Rounding not working
+
+XProperty
+    - Can't set, as seems to crash at the moment.
+
+WindowDrag
+    - Gtk3 should now support this.
+
+Progress bars
+    - Orientation
+
+Toolbars
+    - Orientation
