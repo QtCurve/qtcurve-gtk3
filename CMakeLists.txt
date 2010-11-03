@@ -147,17 +147,6 @@ if (GTK_INCLUDE_DIR)
                 "**************************************************************\n")
     endif(QTC_MODIFY_MOZILLA)
 
-    if(QTC_USE_CAIRO_FOR_ARROWS)
-        message("**************************************************************\n"
-                "Warning: Using ciaro to draw arrows - this has been reported to \n"
-                "         fail with intel Xorg driver > 2.8\n"
-                "**************************************************************\n")
-    else(QTC_USE_CAIRO_FOR_ARROWS)
-        message("**************************************************************\n"
-                "Information: Using Gdk to draw arrows.\n"
-                "**************************************************************\n")
-    endif(QTC_USE_CAIRO_FOR_ARROWS)
-    
     if(QTC_CAIRO_1_10_HACK)
         message("**************************************************************\n"
                 "**************************************************************\n"
