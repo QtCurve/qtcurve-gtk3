@@ -1,12 +1,15 @@
 General
     - Crashes X server when using inel driver? NVidia, and Xephyr, seem
       to be ok.
+    - Opacity settings
+    - sanitizeSize ??
 
 Scrollbars
     - look sunken when selected
     - loose mouse over when selected
     - if slider is small, groove is not drawn correctly
     - button orientation not correct - always horizontal
+    - drawing of slider handle *over* buttons when at min/max not done
 
 Entry fields
     - Background is drawn using highlight colour when active
@@ -14,6 +17,8 @@ Entry fields
 ListView headers
     - Need way to detect first header. At the moment, just draw splitter
       on right hand side.
+    - Drawing of lines - custom GC
+    - Detection of sorted column
 
 Combo Boxes
     - Unified style not working
@@ -32,6 +37,7 @@ Spin Widgets
 
 Popup-menus
     - Rounding not working
+    - Menu stripe
 
 Tooltips
     - Rounding not working
@@ -44,10 +50,10 @@ WindowDrag
 
 Progress bars
     - Orientation
-    - diagonal stripes
-
-Sliders
-    - Plastik style
+    - Animation
 
 Toolbars
     - Orientation
+
+Menubars
+    - Detecting active
