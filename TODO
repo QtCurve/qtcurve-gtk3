@@ -23,7 +23,8 @@ Combo Boxes
     - Editable's list is not drawn 'view' (i.e. KDE) like
 
 Group Boxes
-    - Whewn bold font is used, its clipped on left
+    - Alignment of group box titles. Currently if use Gtk2 code, then text
+      is clipped on left. :-(
 
 Arrows
     - Odd clipping/drawing on down arrow
