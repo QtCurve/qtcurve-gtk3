@@ -1,6 +1,4 @@
 General
-    - Need to replace GdkRegion usage, suggest create path to clip to
-      (This can be used for Gtk2 as well)
     - Crashes X server when using inel driver? NVidia, and Xephyr, seem
       to be ok.
 
@@ -46,6 +44,10 @@ WindowDrag
 
 Progress bars
     - Orientation
+    - diagonal stripes
+
+Sliders
+    - Plastik style
 
 Toolbars
     - Orientation
