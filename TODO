@@ -5,10 +5,6 @@ General
     - sanitizeSize ??
 
 Scrollbars
-    - look sunken when selected
-    - loose mouse over when selected
-    - if slider is small, groove is not drawn correctly
-    - button orientation not correct - always horizontal
     - drawing of slider handle *over* buttons when at min/max not done
 
 Entry fields
@@ -57,3 +53,4 @@ Toolbars
 
 Menubars
     - Detecting active
+    - Items seem to only be rounded on top even on mouse-over
