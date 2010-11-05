@@ -7,9 +7,6 @@ General
 Scrollbars
     - drawing of slider handle *over* buttons when at min/max not done
 
-Entry fields
-    - Background is drawn using highlight colour when active
-
 ListView headers
     - Need way to detect first header. At the moment, just draw splitter
       on right hand side.
