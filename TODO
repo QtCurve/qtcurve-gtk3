@@ -28,14 +28,7 @@ WindowDrag
     - Gtk3 should now support this.
 
 Progress bars
-    - Orientation
     - Animation
-
-Toolbars
-    - Orientation
-
-Scrollbars
-    - Orientation for min/max hack
 
 Menubars
     - Detecting active
