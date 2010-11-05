@@ -2,6 +2,7 @@ General
     - Crashes X server when using inel driver? NVidia, and Xephyr, seem
       to be ok.
     - Opacity settings
+    - Background gradient messes up scrollbars?
 
 ListView headers
     - Need way to detect first header. At the moment, just draw splitter
