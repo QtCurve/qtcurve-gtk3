@@ -2,7 +2,6 @@ General
     - Crashes X server when using inel driver? NVidia, and Xephyr, seem
       to be ok.
     - Opacity settings
-    - sanitizeSize ??
 
 Scrollbars
     - drawing of slider handle *over* buttons when at min/max not done
