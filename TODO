@@ -21,9 +21,6 @@ Group Boxes
 Popup-menus
     - Rounding not working
 
-Tooltips
-    - Rounding not working
-
 WindowDrag
     - Gtk3 should now support this.
 
