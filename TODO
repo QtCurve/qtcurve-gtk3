@@ -27,9 +27,6 @@ Popup-menus
 Tooltips
     - Rounding not working
 
-XProperty
-    - Can't set, as seems to crash at the moment.
-
 WindowDrag
     - Gtk3 should now support this.
 
