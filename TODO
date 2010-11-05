@@ -3,9 +3,6 @@ General
       to be ok.
     - Opacity settings
 
-Scrollbars
-    - drawing of slider handle *over* buttons when at min/max not done
-
 ListView headers
     - Need way to detect first header. At the moment, just draw splitter
       on right hand side.
@@ -36,6 +33,9 @@ Progress bars
 
 Toolbars
     - Orientation
+
+Scrollbars
+    - Orientation for min/max hack
 
 Menubars
     - Detecting active
