@@ -25,9 +25,6 @@ Group Boxes
     - Alignment of group box titles. Currently if use Gtk2 code, then text
       is clipped on left. :-(
 
-Arrows
-    - Odd clipping/drawing on down arrow
-
 Spin Widgets
     - Unified not clipped correctly?
 
