@@ -10,9 +10,13 @@ ListView headers
     - Detection of sorted column
 
 Combo Boxes
-    - Unified style not working
-    - Editable has double arrows
-    - Editable's list is not drawn 'view' (i.e. KDE) like
+    - Focus on non-unified style combo button
+        - glow: has glow and line (Gtk2 as well!!!)
+        - filled: too small
+        - full: too small (well is just filled wihtout fill!)
+        - standard: too small
+        - highlight: too small (similar to standard)
+        - line: acceptable
 
 Group Boxes
     - Alignment of group box titles. Currently if use Gtk2 code, then text
