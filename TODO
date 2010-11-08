@@ -21,7 +21,7 @@ Windows
     - Reisze handle too big?
 
 Progress bars
-    - Animation [Disabled in qt_settings.c]
+    - Detect activity mode
 
 Menubars
     - Detecting active
