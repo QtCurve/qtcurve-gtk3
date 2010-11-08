@@ -10,13 +10,7 @@ ListView headers
     - Detection of sorted column
 
 Combo Boxes
-    - Focus on non-unified style combo button
-        - glow: has glow and line (Gtk2 as well!!!)
-        - filled: too small
-        - full: too small (well is just filled wihtout fill!)
-        - standard: too small
-        - highlight: too small (similar to standard)
-        - line: acceptable
+    - Arrow clipped when not etching
 
 Group Boxes
     - Alignment of group box titles. Currently if use Gtk2 code, then text
@@ -35,3 +29,6 @@ Progress bars
 Menubars
     - Detecting active
     - Items seem to only be rounded on top even on mouse-over
+
+Spin Widget
+    - Buttons are darker when have focus?
