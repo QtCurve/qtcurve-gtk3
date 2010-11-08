@@ -28,4 +28,4 @@ Menubars
     - Items seem to only be rounded on top even on mouse-over
 
 Spin Widget
-    - Buttons are darker when have focus?
+    - Entry focus/mouse over is clipped on right
