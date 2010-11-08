@@ -1,7 +1,7 @@
 General
     - Crashes X server when using inel driver? NVidia, and Xephyr, seem
       to be ok.
-    - Opacity settings
+    - Opacity settings [Disabled in qt_settings.c]
 
 ListView headers
     - Need way to detect first header. At the moment, just draw splitter
@@ -23,14 +23,14 @@ Group Boxes
       is clipped on left. :-(
 
 Popup-menus
-    - Rounding not working
+    - Rounding not working [Disabled in qt_settings.c]
 
 Windows
     - Gtk3 should now support drag.
     - Reisze handle too big?
 
 Progress bars
-    - Animation
+    - Animation [Disabled in qt_settings.c]
 
 Menubars
     - Detecting active
