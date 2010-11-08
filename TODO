@@ -9,9 +9,6 @@ ListView headers
     - Drawing of lines - custom GC
     - Detection of sorted column
 
-Combo Boxes
-    - Arrow clipped when not etching
-
 Group Boxes
     - Alignment of group box titles. Currently if use Gtk2 code, then text
       is clipped on left. :-(
