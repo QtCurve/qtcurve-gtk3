@@ -26,6 +26,3 @@ Progress bars
 Menubars
     - Detecting active
     - Items seem to only be rounded on top even on mouse-over
-
-Spin Widget
-    - Entry focus/mouse over is clipped on right
