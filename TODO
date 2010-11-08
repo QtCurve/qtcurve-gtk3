@@ -17,7 +17,8 @@ Popup-menus
     - Rounding not working [Disabled in qt_settings.c]
 
 Windows
-    - Gtk3 should now support drag.
+    - Dragging doesn't set cursor.
+    - Gtk3 does not seem to support drag apart from men and toolbars.
     - Reisze handle too big?
 
 Progress bars
