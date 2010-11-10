@@ -1,6 +1,6 @@
 General
-    - Crashes X server when using inel driver? NVidia, and Xephyr, seem
-      to be ok.
+    - Crashes X server when using intel driver? NVidia, and Xephyr, seem
+      to be ok. Murrine also suffers from this.
     - Opacity settings [Disabled in qt_settings.c]
 
 ListView headers

@@ -1,5 +1,5 @@
-1.7.0a1
+1.7.0
 -----
-1. First Gtk3 preview - compiles with 2.91.3. See TODO for list
-   of known issues.
+1. First Gtk3 preview release - compiles with 2.91.3. See
+   TODO for list of known issues.
 2. Support dragging of windows via toolbar.
