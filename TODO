@@ -6,7 +6,7 @@ General
 ListView headers
     - Need way to detect first header. At the moment, just draw splitter
       on right hand side.
-    - Drawing of lines - custom GC [Disabled in qt_settings.c]
+    - Drawing of lines, no way to set line colour. Gtk3 *forces* black :-(
     - Detection of sorted column [Disabled in qt_settings.c]
 
 Group Boxes
