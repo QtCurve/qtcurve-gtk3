@@ -19,7 +19,6 @@ Popup-menus
 Windows
     - Dragging doesn't set cursor.
     - Gtk3 does not seem to support drag apart from men and toolbars.
-    - Reisze handle too big?
 
 Progress bars
     - Detect activity mode
