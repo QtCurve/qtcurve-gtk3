@@ -1,6 +1,8 @@
 1.7.1
 -----
 1. Remove resize grips - kwin handles this.
+2. Add mouse tracking to treeview lists.
+3. Indent treeview selection as per KDE
 
 1.7.0
 -----

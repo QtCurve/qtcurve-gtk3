@@ -8,6 +8,7 @@ ListView headers
       on right hand side.
     - Drawing of lines, no way to set line colour. Gtk3 *forces* black :-(
     - Detection of sorted column [Disabled in qt_settings.c]
+    - Detection of "row_ending_details" - is this required?
 
 Group Boxes
     - Alignment of group box titles. Currently if use Gtk2 code, then text
