@@ -2,7 +2,9 @@
 -----
 1. Remove resize grips - kwin handles this.
 2. Add mouse tracking to treeview lists.
-3. Indent treeview selection as per KDE
+3. Indent treeview selection as per KDE.
+4. Dont use GtkStyle to draw treeview lines. Use custom code which matches previous
+   KDE 'old' style.
 
 1.7.0
 -----
