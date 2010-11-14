@@ -1,0 +1,14 @@
+1.7.1
+-----
+1. Remove resize grips - kwin handles this.
+2. Add mouse tracking to treeview lists.
+3. Indent treeview selection as per KDE.
+4. Dont use GtkStyle to draw treeview lines. Use custom code which matches previous
+   KDE 'old' style.
+5. Fix drawing or progressbar groove in treeview.
+
+1.7.0
+-----
+1. First Gtk3 preview release - compiles with 2.91.3. See
+   TODO for list of known issues.
+2. Support dragging of windows via toolbar.
