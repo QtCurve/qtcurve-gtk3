@@ -5,6 +5,7 @@
 3. Indent treeview selection as per KDE.
 4. Dont use GtkStyle to draw treeview lines. Use custom code which matches previous
    KDE 'old' style.
+5. Fix drawing or progressbar groove in treeview.
 
 1.7.0
 -----
