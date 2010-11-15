@@ -1,6 +1,8 @@
 1.7.2
 -----
 1. Fix initial treeview highlight.
+2. Improve group-box label positioning.
+3. Fix line-style group box when text is above or below the line.
 
 1.7.1
 -----

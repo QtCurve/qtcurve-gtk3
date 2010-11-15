@@ -9,16 +9,12 @@ ListView headers
     - Detection of sorted column [Disabled in qt_settings.c]
     - Detection of "row_ending_details" - is this required?
 
-Group Boxes
-    - Alignment of group box titles. Currently if use Gtk2 code, then text
-      is clipped on left. :-(
-
 Popup-menus
     - Rounding not working [Disabled in qt_settings.c]
 
 Windows
     - Dragging doesn't set cursor.
-    - Gtk3 does not seem to support drag apart from men and toolbars.
+    - Gtk3 does not seem to support drag apart from menu and toolbars.
 
 Progress bars
     - Detect activity mode
