@@ -5,6 +5,7 @@
 3. Fix line-style group box when text is above or below the line.
 4. Fix crash when using a tiled image for background appearance, but not for menu
    appearance - was using wrong config item!
+5. Fix border of hovered treeview items.
 
 1.7.1
 -----
