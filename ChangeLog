@@ -6,6 +6,7 @@
 4. Fix crash when using a tiled image for background appearance, but not for menu
    appearance - was using wrong config item!
 5. Fix border of hovered treeview items.
+6. Fix treeview lines.
 
 1.7.1
 -----
