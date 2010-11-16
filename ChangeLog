@@ -1,16 +1,17 @@
 1.7.2
 -----
-1. Fix initial treeview highlight.
-2. Improve group-box label positioning.
-3. Fix line-style group box when text is above or below the line.
-4. Fix crash when using a tiled image for background appearance, but not for menu
-   appearance - was using wrong config item!
-5. Fix border of hovered treeview items.
-6. Fix treeview line end detection.
-7. Fix treeview selection, and line, corruption.
-8. Fix treeview line dimensions.
-9. When shading sorted listview header, use thae fact that the header's button's
-   arrow is not GTK_ARROW_NONE to indicate that this is the sorted column.
+ 1. Fix initial treeview highlight.
+ 2. Improve group-box label positioning.
+ 3. Fix line-style group box when text is above or below the line.
+ 4. Fix crash when using a tiled image for background appearance, but not for menu
+    appearance - was using wrong config item!
+ 5. Fix border of hovered treeview items.
+ 6. Fix treeview line end detection.
+ 7. Fix treeview selection, and line, corruption.
+ 8. Fix treeview line dimensions.
+ 9. When shading sorted listview header, use thae fact that the header's button's
+    arrow is not GTK_ARROW_NONE to indicate that this is the sorted column.
+10. Fix clipping issues with full and filled focus types.
 
 1.7.1
 -----
