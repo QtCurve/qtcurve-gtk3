@@ -9,6 +9,8 @@
 6. Fix treeview line end detection.
 7. Fix treeview selection, and line, corruption.
 8. Fix treeview line dimensions.
+9. When shading sorted listview header, use thae fact that the header's button's
+   arrow is not GTK_ARROW_NONE to indicate that this is the sorted column.
 
 1.7.1
 -----

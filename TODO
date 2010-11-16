@@ -6,7 +6,6 @@ General
 ListView headers
     - Need way to detect first header. At the moment, just draw splitter
       on right hand side.
-    - Detection of sorted column [Disabled in qt_settings.c]
     - Detection of "row_ending_details" - is this required?
 
 Popup-menus
