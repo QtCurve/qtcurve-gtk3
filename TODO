@@ -20,3 +20,6 @@ Progress bars
 
 Menubars
     - Detecting active
+
+Combo-boxes
+    - Implement KDE-style for non-editable combos. [Disabled in qt_settings.c]
