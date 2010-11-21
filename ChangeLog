@@ -1,6 +1,9 @@
 1.7.3
 -----
 1. Fix painting of alternate listview rows.
+2. Remove QTC_CAIRO_1_10_HACK cmake option. For cairo 1.10, an easier fix is to just
+   ensure there is no colour stop at 1.0. Thanks to Hugo Pereira Da Costa for
+   pointing this out.
 
 1.7.2
 -----

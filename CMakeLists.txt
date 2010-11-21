@@ -153,16 +153,6 @@ if (GTK_INCLUDE_DIR)
                 "**************************************************************\n")
     endif(QTC_MODIFY_MOZILLA)
 
-    if(QTC_CAIRO_1_10_HACK)
-        message("**************************************************************\n"
-                "**************************************************************\n"
-                "Warning: You have enabled the option for QtCurve to workaround\n"
-                "         issues with Cairo 1.10 and NVIDIA. This may have an \n"
-                "         impact on performance..\n"
-                "**************************************************************\n"
-                "**************************************************************\n")
-    endif(QTC_CAIRO_1_10_HACK)
-
     if (QTC_ENABLE_PARENTLESS_DIALOG_FIX_SUPPORT)
         message("**************************************************************\n"
                 "Warning: You have enabled support for the 'fix parentless dialogs'\n"
