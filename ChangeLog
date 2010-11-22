@@ -8,6 +8,7 @@
    combos - matches KDE behaviour.
 4. Dont use Gtk code for dragging windows - use QtCurve's own code, as per Gtk2. This
    allows to drag in other areas as well as menu and toolbars.
+5. Implement hover and focus for *some* scrolled windows.
 
 1.7.2
 -----
