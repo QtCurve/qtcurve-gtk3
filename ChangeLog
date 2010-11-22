@@ -4,6 +4,8 @@
 2. Remove QTC_CAIRO_1_10_HACK cmake option. For cairo 1.10, an easier fix is to just
    ensure there is no colour stop at 1.0. Thanks to Hugo Pereira Da Costa for
    pointing this out.
+3. Dont use Gtk code for dragging windows - use QtCurve's own code, as per Gtk2. This
+   allows to drag in other areas as well as menu and toolbars.
 
 1.7.2
 -----

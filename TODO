@@ -11,10 +11,6 @@ ListView headers
 Popup-menus
     - Rounding not working [Disabled in qt_settings.c]
 
-Windows
-    - Dragging doesn't set cursor.
-    - Gtk3 does not seem to support drag apart from menu and toolbars.
-
 Progress bars
     - Detect activity mode
 
