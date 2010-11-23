@@ -10,7 +10,8 @@
    allows to drag in other areas as well as menu and toolbars.
 5. Implement hover and focus for *some* scrolled windows.
 6. Use gdk_pointer_is_grabbed() to determine if a menubar item has a menu open.
-7. Add support for KDE4 StartDragDist config item to control when window drag starts.
+7. Add support for KDE4 StartDragDist and StartDragTime config items to control when
+   window drag starts.
 
 1.7.2
 -----
