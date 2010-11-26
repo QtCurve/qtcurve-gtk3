@@ -1,4 +1,4 @@
-1.7.3
+1.8.0
 -----
 1. Fix painting of alternate listview rows.
 2. Remove QTC_CAIRO_1_10_HACK cmake option. For cairo 1.10, an easier fix is to just
