@@ -2,7 +2,7 @@
 -----
 1. Add option to not display keyboard shortcurt underline until 'Alt' is
    pressed.
-2. Add option to specify appearance of toolbar buttons.
+2. Add options to specify appearance of toolbar buttons.
 3. Fix painting of alternate listview rows.
 4. Remove QTC_CAIRO_1_10_HACK cmake option. For cairo 1.10, an easier fix is to just
    ensure there is no colour stop at 1.0. Thanks to Hugo Pereira Da Costa for
