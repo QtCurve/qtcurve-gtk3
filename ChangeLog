@@ -16,6 +16,7 @@
  9. Add support for KDE4 StartDragDist and StartDragTime config items to control when
     window drag starts.
 10. Use configure-event, and not resize-request, to detect window size changes.
+11. Fix splitter background when highlight set to 0.
 
 1.7.2
 -----
