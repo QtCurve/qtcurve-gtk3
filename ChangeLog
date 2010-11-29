@@ -4,20 +4,21 @@
     pressed.
  2. Add options to specify appearance of toolbar buttons.
  3. Allow to use popup menu shade factor when colouring as per menubar.
- 4. Fix painting of alternate listview rows.
- 5. Remove QTC_CAIRO_1_10_HACK cmake option. For cairo 1.10, an easier fix is to just
+ 4. Colour listview arrows on mouse-over.
+ 5. Fix painting of alternate listview rows.
+ 6. Remove QTC_CAIRO_1_10_HACK cmake option. For cairo 1.10, an easier fix is to just
     ensure there is no colour stop at 1.0. Thanks to Hugo Pereira Da Costa for
     pointing this out.
- 6. Use list style pop-up for non-editable combos when not using Gtk-style
+ 7. Use list style pop-up for non-editable combos when not using Gtk-style
     combos - matches KDE behaviour.
- 7. Dont use Gtk code for dragging windows - use QtCurve's own code, as per Gtk2. This
+ 8. Dont use Gtk code for dragging windows - use QtCurve's own code, as per Gtk2. This
     allows to drag in other areas as well as menu and toolbars.
- 8. Implement hover and focus for *some* scrolled windows.
- 9. Use gdk_pointer_is_grabbed() to determine if a menubar item has a menu open.
-10. Add support for KDE4 StartDragDist and StartDragTime config items to control when
+ 9. Implement hover and focus for *some* scrolled windows.
+10. Use gdk_pointer_is_grabbed() to determine if a menubar item has a menu open.
+11. Add support for KDE4 StartDragDist and StartDragTime config items to control when
     window drag starts.
-11. Use configure-event, and not resize-request, to detect window size changes.
-12. Fix splitter background when highlight set to 0.
+12. Use configure-event, and not resize-request, to detect window size changes.
+13. Fix splitter background when highlight set to 0.
 
 1.7.2
 -----
