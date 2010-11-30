@@ -21,6 +21,7 @@
     square.
 13. Use configure-event, and not resize-request, to detect window size changes.
 14. Fix splitter background when highlight set to 0.
+15. Fix tab mouse-over highlight when tab has a child widget.
 
 1.7.2
 -----
