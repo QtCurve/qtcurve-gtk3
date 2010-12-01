@@ -13,3 +13,6 @@ Popup-menus
 
 Progress bars
     - Detect activity mode
+
+ComboBoxes
+    - KDE-style non-editables not working 100% [Disabled in qt_settings.c]
