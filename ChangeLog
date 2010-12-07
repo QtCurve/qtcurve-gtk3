@@ -2,6 +2,7 @@
 -----
 1. Alter CMake linker flags to detect undefined symbols.
 2. Improve window drag code to take care of GtkPizza, and other, widgets.
+3. Use Gdk window to determine offsets when drawing background gradients.
 
 1.8.0
 -----
