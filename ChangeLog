@@ -5,6 +5,8 @@
 3. Use Gdk window to determine offsets when drawing background gradients.
 4. Use SHADOW_IN for treeviews.
 5. Fix background gradients in scrollviews.
+6. When drawing background gradients, use the background colour of the top-level
+   widget's style.
 
 1.8.0
 -----
