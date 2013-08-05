@@ -1,3 +1,8 @@
+Anyone who asked QtCurve for Gtk3 should read related article:
+https://igurublog.wordpress.com/2012/11/05/gnome-et-al-rotting-in-threes/
+It describes the current situation with Gtk3.
+
+
 Installation
 ------------
 To build and install:
